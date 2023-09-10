@@ -1,5 +1,8 @@
 # Cours BUT R5.12: Modélisation mathématiques
 
+<img src="image.jpg" width="75%"/>
+Image taken from: https://bdtechtalks.com/2019/02/15/what-is-deep-learning-neural-networks/
+
 ## Table des matières
 
 0. Introduction

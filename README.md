@@ -6,11 +6,11 @@ Image taken from: https://bdtechtalks.com/2019/02/15/what-is-deep-learning-neura
 ## Table des matières
 
 0. Introduction
-1. Descente de gradient (Gradient Descent)
+1. Régression linéaire (Linear Regression)
 2. K-plus proches voisins (KNN)
 3. K-moyennes (K-means)
-4. Régression linéaire (Linear Regression)
-5. Régression logistique (Logistic Regression)
+4. Régression logistique (Logistic Regression)
+5. Descente de gradient (Gradient Descent)
 6. Classifieur naïf bayesien (Naive Bayes Classifier)
 7. Arbres de décision (Decision Trees)
 8. Forêts aléatoires (Random Forests)
